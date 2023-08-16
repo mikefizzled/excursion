@@ -1,3 +1,3 @@
-# excursion
+# Excursion
 
-test
+Recreating the Codecademy Excursion website as part of learning Git and Github
